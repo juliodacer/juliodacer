@@ -17,7 +17,7 @@ He participado en proyectos de apps de **delivery, taxis y e-commerce**.
 Y alguna más...
 
 ## Proyectos en los que he trabajado:
-![RealPlazaGo](https://img.shields.io/badge/Real_PLAZA_GO-AE4AE4?style=for-the-badge&logo=react&logoColor=white&labelColor=101010)
+[![RealPlazaGo](https://img.shields.io/badge/Real_PLAZA_GO-AE4AE4?style=for-the-badge&logo=react&logoColor=white&labelColor=101010)]()
 [![RealPlazaGo](https://img.shields.io/badge/Real_PLAZA_GO-AE4AE4?style=for-the-badge&logo=android&logoColor=white&labelColor=101010)](https://play.google.com/store/apps/details?id=com.realplazago.app)
 [![RealPlazaGo](https://img.shields.io/badge/Real_PLAZA_GO-AE4AE4?style=for-the-badge&logo=apple&logoColor=white&labelColor=101010)](https://apps.apple.com/pe/app/real-plaza/id1596597975)
 </br>
