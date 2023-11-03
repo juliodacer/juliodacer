@@ -1,7 +1,7 @@
 # Hola, mi nombre es Julio Dávila 👋
 ### Mobile Developer | React Native | Android & iOS
 
-Soy desarrollador de aplicaciones móviles con casi 3 años de experiencia trabajando con tecnologías como **Java** y **Kotlin** en **Android nativo** e **híbridas** con **React Native**, **JavaScript ES6**, **Typescript**, **Redux**. 
+Soy desarrollador de aplicaciones móviles con 3 años de experiencia trabajando con tecnologías como **Java** y **Kotlin** en **Android nativo** e **híbridas** con **React Native**, **JavaScript ES6**, **Typescript**, **Redux**. 
 
 He participado en proyectos de apps de **delivery, taxis y e-commerce**. 
 
